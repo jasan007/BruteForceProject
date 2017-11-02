@@ -1,0 +1,4 @@
+Chrome=C:\\Users\\Mustafa Munna\\Desktop\\Mezbah Bhai\\chromedriver.exe
+Gecko="C:\\Users\\j-man\\Desktop\\Selenium Files\\geckodriver-v0.19.0-win64\\geckodriver.exe"
+URL=http://ebfs.bruteforcesolution.net/ebfs/index.php
+ExcelPath=C:\\Users\\Mustafa Munna\\Desktop\\~$ProjectTestCases.xlsx
